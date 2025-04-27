@@ -1,14 +1,14 @@
 {
   "theme_info": {
-    "name": "My Theme Template",
+    "name": "NaoBevel",
     "version": "1.0.0",
-    "author": "Your Name",
+    "author": "Naotib",
     "creation_date": "2025-04-22T00:00:00Z", 
     "exported_by": "Theme Manager v1.0.0"
   },
   "content": {
     "wallpapers": {
-      "present": false,
+      "present": true,
       "count": 0
     },
     "icons": {
@@ -34,7 +34,7 @@
   "path_mappings": {},
   "accent_colors": {
     "color1": "0xFFFFFF",
-    "color2": "0x9B2257",
+    "color2": "0x880000",
     "color3": "0x1E2329",
     "color4": "0xFFFFFF",
     "color5": "0x000000",
@@ -42,38 +42,38 @@
   },
   "led_settings": {
     "f1_key": {
-      "effect": 1,
+      "effect": 4,
       "color1": "0xFFFFFF",
-      "color2": "0x000000",
+      "color2": "0x440000",
       "speed": 1000,
-      "brightness": 100,
+      "brightness": 10,
       "trigger": 1,
       "in_brightness": 100
     },
     "f2_key": {
-      "effect": 1,
+      "effect": 4,
       "color1": "0xFFFFFF",
-      "color2": "0x000000",
+      "color2": "0x440000",
       "speed": 1000,
-      "brightness": 100,
+      "brightness": 10,
       "trigger": 1,
       "in_brightness": 100
     },
     "top_bar": {
-      "effect": 1,
+      "effect": 4,
       "color1": "0xFFFFFF",
-      "color2": "0x000000",
+      "color2": "0x440000",
       "speed": 1000,
-      "brightness": 100,
+      "brightness": 10,
       "trigger": 1,
       "in_brightness": 100
     },
     "lr_triggers": {
-      "effect": 1,
-      "color1": "0xFFFFFF",
+      "effect": 4,
+      "color1": "0x440000",
       "color2": "0x000000",
       "speed": 1000,
-      "brightness": 100,
+      "brightness": 10,
       "trigger": 1,
       "in_brightness": 100
     }
