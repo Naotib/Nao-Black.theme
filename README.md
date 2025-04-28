@@ -1,4 +1,4 @@
-# NextUI NaoBezel Template
+# NextUI Nao-Black Template
 
 This is a simple and clean theme for NextUI, illustrating systems with pictures and solid colors.
 
