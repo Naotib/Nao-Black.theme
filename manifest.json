@@ -1,6 +1,6 @@
 {
   "theme_info": {
-    "name": "NaoBevel",
+    "name": "NaoBlack",
     "version": "1.0.0",
     "author": "Naotib",
     "creation_date": "2025-04-22T00:00:00Z", 
@@ -34,7 +34,7 @@
   "path_mappings": {},
   "accent_colors": {
     "color1": "0xFFFFFF",
-    "color2": "0x880000",
+    "color2": "0x262626",
     "color3": "0x1E2329",
     "color4": "0xFFFFFF",
     "color5": "0x000000",
@@ -46,7 +46,7 @@
       "color1": "0xFFFFFF",
       "color2": "0x440000",
       "speed": 1000,
-      "brightness": 10,
+      "brightness": 5,
       "trigger": 1,
       "in_brightness": 100
     },
@@ -55,7 +55,7 @@
       "color1": "0xFFFFFF",
       "color2": "0x440000",
       "speed": 1000,
-      "brightness": 10,
+      "brightness": 5,
       "trigger": 1,
       "in_brightness": 100
     },
@@ -64,13 +64,13 @@
       "color1": "0xFFFFFF",
       "color2": "0x440000",
       "speed": 1000,
-      "brightness": 10,
+      "brightness": 5,
       "trigger": 1,
       "in_brightness": 100
     },
     "lr_triggers": {
       "effect": 4,
-      "color1": "0x440000",
+      "color1": "0xFFB3B3",
       "color2": "0x000000",
       "speed": 1000,
       "brightness": 10,
