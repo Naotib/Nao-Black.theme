@@ -1,4 +1,4 @@
-# NextUI Nao-Black Template
+# NextUI Nao-Dark Template
 
 This is a simple and clean theme for NextUI, illustrating systems with pictures and solid colors.
 
